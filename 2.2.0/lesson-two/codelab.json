@@ -1,0 +1,23 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2019-11-05T08:13:03+08:00",
+  "id": "lesson-two",
+  "duration": 0,
+  "title": "Lesson Two",
+  "summary": "LessonTwo",
+  "source": "lesson-two.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "sdk"
+  ],
+  "tags": [
+    "windows"
+  ],
+  "url": "lesson-two"
+}

@@ -1,0 +1,23 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2019-11-05T08:13:11+08:00",
+  "id": "lesson-one",
+  "duration": 0,
+  "title": "Lesson One",
+  "summary": "LessonOne",
+  "source": "lesson-one.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "sdk"
+  ],
+  "tags": [
+    "windows"
+  ],
+  "url": "lesson-one"
+}
